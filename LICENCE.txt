@@ -1,0 +1,8 @@
+author = Ansh Varshney
+Packages = {
+    PyQt5 
+    PyQt Web Engine
+}
+version = 1.0
+python = 3.8.7 
+this is a origianl content not copyright()
